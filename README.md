@@ -3,7 +3,7 @@
 <param ve-config 
        title="Networks in Early Colonial Hong Kong"
        author="Ryan Iu"
-       banner=![The 1938 Unique Gathering]"https://github.com/ryankciu/networksinearlycolonialhongkong/blob/main/P%231.png"
+       banner=![The 1938 Unique Gathering](P#1.png)
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
