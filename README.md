@@ -17,7 +17,11 @@ _This Digital Humanities project is utilized to support Chapter 3 of my M.A. The
 To begin, I have chosen the travelling story of Captain Walter Bosman and his welcoming banquet in Hong Kong as my entry point into studying the networks. In 1937, Captain Bosman (also known as Ho Yau-kai; 1867-1946), a colonial official in South Africa, decided to travel back to his hometown – Hong Kong – after fifty-four years since his first departure of subsequence in receiving a letter from his biological brother, Robert Ho Tung. Along with his wife Louise Bosman, her maid and a German chauffeur, they first sailed from South Africa to London and then to Paris. Bosman and his companies then travelled more than 18,200 miles by an auto-car. From Paris, they drove east to Nazi Germany, and Poland, then directly south to cross the Danube River and enter Romania and to the Balkans, where they continued to drive eastward across Turkey, the Kingdom of Iraq, Persia (nowadays Iran), and eventually arrived Bombay in India on the 23rd December 1937. The party of four then boarded the TSS Conte Viancalano, an ocean liner that took them to their destination directly to avoid crossing the snow-bound Himalayas overland. In early January 1938, they eventually arrived at Bosman’s hometown, Hong Kong.
 
 On the 14th of February 1938, a month after Bosman’s arrival, fifteen former pupils of the Government Central School (1862-1889; now the Queen’s College) in Hong Kong, ranging in age from sixty-three to eighty years, hosted a welcoming banquet in honour of the return of Bosman a the Kwong Chow Restaurant in West Point. Almost fifty years have passed since they were schoolboys, and on that special night, they reminisced about their boyhood friendships by recalling their childhood memories over tea and gourmet cuisine.
-<param ve-image fit="contain" url="images/P%231.png" label="1938 Unique Gathering" attribution="Courtesy of the Queen’s College History Museum"> 
+<param ve-image
+       fit="contain"
+       url="images/P%231.png"
+       label="1938 Unique Gathering"
+       attribution="Courtesy of the Queen’s College History Museum">
 
 Mr. Frank White proposed the health of Bosman, who suitably replied and exclaimed that the colony has almost entirely transformed, but it was a pleasure for him to realize his former schoolmates were still strong. They were strong not only in their bodies but also in their backgrounds. These attendees of the gathering were either Chinese or Eurasian (people with both Chinese and European ancestry) elites in the colony.
  
@@ -30,18 +34,26 @@ Networking was important for them to strengthen their statuses, influences, or a
 ## The Rhumbl Network Graph
 
 I have created a network graph using Rhumbl to visualize the networks. It is available [online](https://rhumbl.com/app/share/61dc88fcee54560ed8f58e5b).
-<param ve-image fit="contain" url="images/P%233.png"> 
+<param ve-image
+       fit="contain"
+       url="images/P%233.png"> 
 
 Rhumbl is a newly developed online-based software that allows me to generate an accessible relationship chart by formatting the nodes (individuals) and edges (relationships between individuals) on an algorithm layout. Viewers are allowed to interact with this graph. This network graph includes 140 individuals that were correlated with the 16 attendees of the unique gathering in 1938. (Approximately 140 individuals were included at this stage to align with this Rhumbl network graph and my MA thesis. The investigation of the networks will expand in the future; therefore, more individuals will be added).
-<param ve-image fit="contain" url="images/P%233.png"> 
+<param ve-image
+       fit="contain"
+       url="images/P%233.png"> 
 
 Due to technical limitations, it was not allowed to add a legend within the online network graph powered by Rhumbl. Please take reference to the legend on the right-hand side when you are viewing the graph. 
 
 Viewers of my graph are allowed to click on the nodes to view and identify various types of relationships between individuals. Please take reference to the legend for further information regarding the colours of the nodes and the edges. 
-<param ve-image fit="contain" url="images/P%235.png"> 
+<param ve-image
+       fit="contain"
+       url="images/P%235.png"> 
 
 Moreover, my graph allows the viewers to search for a specific person. It will then display precise biographical information about each individual, such as gender, affiliations, footnotes that clarify the relationships between individuals, and a bibliography for references. 
-<param ve-image fit="contain" url="images/P%236.png">
+<param ve-image
+       fit="contain"
+       url="images/P%236.png">
 
 ## The Gephi’s Family Network Graph
 
