@@ -16,11 +16,6 @@ The study of networks is crucial to understanding human experiences. In the late
        attribution="Creative Commons Zero, Public domain, via Wikipedia Commons">
  
 _This Digital Humanities project is utilized to support Chapter 3 of my M.A. Thesis – The Expanded Networks and the Local Elites._
-<param ve-image
-       fit=contain
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/-Panorama_of_Hong_Kong-_MET_DP165598.jpg/1600px--Panorama_of_Hong_Kong-_MET_DP165598.jpg?20170629161136"
-       label="Panorama of Early Colonial Hong Kong"
-       attribution="Creative Commons Zero, Public domain, via Wikipedia Commons">
        
 ### The Background Story
 
