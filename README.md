@@ -4,7 +4,7 @@
        title="Networks in Early Colonial Hong Kong"
        author="Ryan Iu"
        layout="vtl"
-       banner="/images/P%231.png">
+       banner="images/P%231.png">
 
 ## Introduction
 
