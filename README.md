@@ -6,46 +6,27 @@
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
        layout="vertical">
 
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
+# Introduction
 
-# Sample visual essay
+The study of networks is crucial to understanding human experiences. In the late 19th and early 20th century Hong Kong, the Chinese and Eurasian elites, along with the colonial officials and foreign merchants, had formed interconnected networks among themselves and within the colonial bureaucracy through marriages, shared common institutions (including alumni network), and political and commercial connections. By studying and visualizing the networks of these bureaucratic actors, we gain insights into their lives and institutional experiences, as well as the form of collaboration and the malleable nature of colonialism in early Hong Kong on a micro-historical level. As to visualize the networks, I have formed a Digital Humanities project through this digital platform and the utilization of network modelling tools.
+ 
+This Digital Humanities project is utilized to support Chapter 3 of my M.A. Thesis – The Expanded Networks and the Local Elites.  
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+## The Background Story
 
-# Basic usage
+To begin, I have chosen the travelling story of Captain Walter Bosman and his welcoming banquet in Hong Kong as my entry point into studying the networks. In 1937, Captain Bosman (also known as Ho Yau-kai; 1867-1946), a colonial official in South Africa, decided to travel back to his hometown – Hong Kong – after fifty-four years since his first departure of subsequence in receiving a letter from his biological brother, Robert Ho Tung. Along with his wife Louise Bosman, her maid and a German chauffeur, they first sailed from South Africa to London and then to Paris. Bosman and his companies then travelled more than 18,200 miles by an auto-car. From Paris, they drove east to Nazi Germany, and Poland, then directly south to cross the Danube River and enter Romania and to the Balkans, where they continued to drive eastward across Turkey, the Kingdom of Iraq, Persia (nowadays Iran), and eventually arrived Bombay in India on the 23rd December 1937. The party of four then boarded the TSS Conte Viancalano, an ocean liner that took them to their destination directly to avoid crossing the snow-bound Himalayas overland. In early January 1938, they eventually arrived at Bosman’s hometown, Hong Kong.
 
-## Image
+On the 14th of February 1938, a month after Bosman’s arrival, fifteen former pupils of the Government Central School (1862-1889; now the Queen’s College) in Hong Kong, ranging in age from sixty-three to eighty years, hosted a welcoming banquet in honour of the return of Bosman a the Kwong Chow Restaurant in West Point. Almost fifty years have passed since they were schoolboys, and on that special night, they reminisced about their boyhood friendships by recalling their childhood memories over tea and gourmet cuisine.
+ 
+Mr. Frank White proposed the health of Bosman, who suitably replied and exclaimed that the colony has almost entirely transformed, but it was a pleasure for him to realize his former schoolmates were still strong. They were strong not only in their bodies but also in their backgrounds. These attendees of the gathering were either Chinese or Eurasian (people with both Chinese and European ancestry) elites in the colony.
+ 
+Interestingly, these elite alumni – in these fifty years – have formed interconnected networks among themselves - as well as their families - and within the colonial bureaucracy through marriages, shared common institutions, and business and political connections. After tracing their connections, their networks involved approximately 140 individuals.
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
-<param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
-       license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+They became elites and formed such interconnected networks due to the Central School and the secular education that they received there. The school became the source of empowerment for young men as it taught both Chinese and English to the students so that they could become civil servants or business middlemen (compradores) within the colonial bureaucracy once they graduated.
 
-## Map
+Networking was important for them to strengthen their statuses, influences, or any social benefits that they could have acquired through mutual networks, particularly after they have accumulated wealth and earned high social status in the colony. Significantly, such intricated networks allowed these elites to differentiate themselves from ordinary Chinese and European colonial officials based on similar backgrounds. The networks also contributed to the structure of an amalgamative mentality – in which these elites expressed an opportunistic loyalty towards the British Empire while being loyal to the Chinese regimes simultaneously. This conflicted mentality allowed these elites to travel between the edges of the two empires and put a distinctive stamp on the bureaucratic culture of early colonial Hong Kong.
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
-
-## Multiple viewers
-
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
+# The Rhumbl Network Graph
 
 # References
 
