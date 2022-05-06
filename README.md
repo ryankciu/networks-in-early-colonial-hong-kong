@@ -91,61 +91,31 @@ To generate the graphs I have consulted various archival materials and secondary
 
 ### Archival Materials
 
-Asian Directories and Chronicles - Hong Kong section (various years)
+Asian Directories and Chronicles - Hong Kong section (various years).
+<param ve-image 
+       fit="contain"
+       url="images/chroniclesanddirectories1938.png"
+       label="1938 Asian Chronicles and Directories"
+       attribution="“Hong Kong,” Asian Chronicles and Directories 1938, A514-A515.">
+       
+Carl Smith Collection.
+
+Colonial Office correspondence collection (CO 129).
+
+“Juror List,” Hong Kong Government Gazettee (various years).
 <param ve-image 
        fit="contain"
        url="images/jurorlist.png"
        label="Juror List for 1883"
        attribution="“Juror List for 1883,” Hong Kong Government Gazettee 1883, 157.">
        
-Carl Smith Collection 
-<param ve-image 
-       fit="contain"
-       url="images/jurorlist.png"
-       label="Juror List for 1883"
-       attribution="“Juror List for 1883,” Hong Kong Government Gazettee 1883, 157.">
-       
-Colonial Office correspondence collection (CO 129)
-<param ve-image 
-       fit="contain"
-       url="images/jurorlist.png"
-       label="Juror List for 1883"
-       attribution="“Juror List for 1883,” Hong Kong Government Gazettee 1883, 157.">
-       
-“Juror List,” Hong Kong Government Gazettee (various years) 
-<param ve-image 
-       fit="contain"
-       url="images/jurorlist.png"
-       label="Juror List for 1883"
-       attribution="“Juror List for 1883,” Hong Kong Government Gazettee 1883, 157.">
-       
-South China Morning Post 
-<param ve-image 
-       fit="contain"
-       url="images/jurorlist.png"
-       label="Juror List for 1883"
-       attribution="“Juror List for 1883,” Hong Kong Government Gazettee 1883, 157.">
-       
+South China Morning Post.
+
 The National Library of Scotland (NLS), Paper of Sir James Haldane Stewart Lockhart, K.C.M.G. (1858-1947), P’ang Shau Chun, Hong Kong, to A Brewin, 16 September 1930.
-<param ve-image 
-       fit="contain"
-       url="images/jurorlist.png"
-       label="Juror List for 1883"
-       attribution="“Juror List for 1883,” Hong Kong Government Gazettee 1883, 157.">
-       
-The University of Otago Library Archive, Hocken Collections, MS870B
-<param ve-image 
-       fit="contain"
-       url="images/jurorlist.png"
-       label="Juror List for 1883"
-       attribution="“Juror List for 1883,” Hong Kong Government Gazettee 1883, 157.">
-       
-The Yellow Dragon (various editions)
-<param ve-image 
-       fit="contain"
-       url="images/jurorlist.png"
-       label="Juror List for 1883"
-       attribution="“Juror List for 1883,” Hong Kong Government Gazettee 1883, 157.">
+
+The University of Otago Library Archive, Hocken Collections, MS870B.
+
+The Yellow Dragon (various editions).
        
 ### Secondary Sources
 
