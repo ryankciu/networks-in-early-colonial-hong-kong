@@ -3,7 +3,7 @@
 <param ve-config 
        title="Networks in Early Colonial Hong Kong"
        author="Ryan Iu"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       banner=![The 1938 Unique Gathering](https://github.com/ryankciu/networksinearlycolonialhongkong/blob/main/P%231.png)
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
