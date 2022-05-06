@@ -83,8 +83,6 @@ To visualize the family network, in particular, I have created a family network 
 <param ve-compare sync
        url="images/gephifamilygraph.png"
        label="Gephi’s Family Network Graph">
-<param ve-compare
-       url="images/gephifamilygraphlegend.png">
 
 ### Methodology and Data Collection 
 
