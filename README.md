@@ -3,7 +3,7 @@
 <param ve-config 
        title="Networks in Early Colonial Hong Kong"
        author="Ryan Iu"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url=" 
        layout="vertical">
 
 ## Introduction
