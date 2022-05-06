@@ -15,10 +15,6 @@ The study of networks is crucial to understanding human experiences. In the late
        attribution="Creative Commons Zero, Public domain, via Wikipedia Commons">
  
 _This Digital Humanities project is utilized to support Chapter 3 of my M.A. Thesis – The Expanded Networks and the Local Elites._
-<param ve-image
-       url="https://commons.wikimedia.org/wiki/File:-Panorama_of_Hong_Kong-_MET_DP165598.jpg"
-       label="Panorama of Early Colonial Hong Kong"
-       attribution="Creative Commons Zero, Public domain, via Wikipedia Commons">
 
 #### The Background Story
 
@@ -59,10 +55,6 @@ I have created a network graph using Rhumbl to visualize the networks. It is ava
        label="Rhumbl Network Graph">
 
 Due to technical limitations, it was not allowed to add a legend within the online network graph powered by Rhumbl. Please take reference to the legend on the right-hand side when you are viewing the graph.
-<param ve-image
-       fit="contain"
-       url="images/legend.png"
-       label="">
 
 Viewers of my graph are allowed to click on the nodes to view and identify various types of relationships between individuals. Please take reference to the legend for further information regarding the colours of the nodes and the edges. 
 <param ve-image
