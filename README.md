@@ -24,12 +24,32 @@ On the 14th of February 1938, a month after Bosman’s arrival, fifteen former p
        attribution="Courtesy of the Queen’s College History Museum">
        
 Mr. Frank White proposed the health of Bosman, who suitably replied and exclaimed that the colony has almost entirely transformed, but it was a pleasure for him to realize his former schoolmates were still strong. They were strong not only in their bodies but also in their backgrounds. These attendees of the gathering were either Chinese or Eurasian (people with both Chinese and European ancestry) elites in the colony.
- 
-Interestingly, these elite alumni – in these fifty years – have formed interconnected networks among themselves - as well as their families - and within the colonial bureaucracy through marriages, shared common institutions, and business and political connections. After tracing their connections, their networks involved approximately 140 individuals.
+<param ve-image 
+       fit="contain"
+       url="images/uniquegathering.png"
+       label="1938 Unique Gathering"
+       attribution="Courtesy of the Queen’s College History Museum"
 
+Interestingly, these elite alumni – in these fifty years – have formed interconnected networks among themselves - as well as their families - and within the colonial bureaucracy through marriages, shared common institutions, and business and political connections. After tracing their connections, their networks involved approximately 140 individuals.
+<param ve-image 
+       fit="contain"
+       url="images/uniquegathering.png"
+       label="1938 Unique Gathering"
+       attribution="Courtesy of the Queen’s College History Museum">
+       
 They became elites and formed such interconnected networks due to the Central School and the secular education that they received there. The school became the source of empowerment for young men as it taught both Chinese and English to the students so that they could become civil servants or business middlemen (compradores) within the colonial bureaucracy once they graduated.
- 
+<param ve-image 
+       fit="contain"
+       url="images/uniquegathering.png"
+       label="1938 Unique Gathering"
+       attribution="Courtesy of the Queen’s College History Museum">
+
 Networking was important for them to strengthen their statuses, influences, or any social benefits that they could have acquired through mutual networks, particularly after they have accumulated wealth and earned high social status in the colony. Significantly, such intricated networks allowed these elites to differentiate themselves from ordinary Chinese and European colonial officials based on similar backgrounds. The networks also contributed to the structure of an amalgamative mentality – in which these elites expressed an opportunistic loyalty towards the British Empire while being loyal to the Chinese regimes simultaneously. This conflicted mentality allowed these elites to travel between the edges of the two empires and put a distinctive stamp on the bureaucratic culture of early colonial Hong Kong.
+<param ve-image 
+       fit="contain"
+       url="images/uniquegathering.png"
+       label="1938 Unique Gathering"
+       attribution="Courtesy of the Queen’s College History Museum">
 
 ## The Rhumbl Network Graph
 
