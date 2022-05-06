@@ -3,8 +3,7 @@
 <param ve-config 
        title="Networks in Early Colonial Hong Kong"
        author="Ryan Iu"
-       banner=!"https://iiif.juncture-digital.org/banner/?url=https://user-images.githubusercontent.com/104740844/167071143-8f9bf90a-ce89-4caf-be44-05361c99539b.png"
-       layout="vertical">
+       banner=!"https://iiif.juncture-digital.org/banner/?url=https://user-images.githubusercontent.com/104740844/167071143-8f9bf90a-ce89-4caf-be44-05361c99539b.png">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
