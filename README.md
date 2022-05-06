@@ -12,6 +12,7 @@ The study of networks is crucial to understanding human experiences. In the late
  
 _This Digital Humanities project is utilized to support Chapter 3 of my M.A. Thesis – The Expanded Networks and the Local Elites._
 
+
 ### The Background Story
 
 <param ve-image 
@@ -34,6 +35,7 @@ They became elites and formed such interconnected networks due to the Central Sc
  
 Networking was important for them to strengthen their statuses, influences, or any social benefits that they could have acquired through mutual networks, particularly after they have accumulated wealth and earned high social status in the colony. Significantly, such intricated networks allowed these elites to differentiate themselves from ordinary Chinese and European colonial officials based on similar backgrounds. The networks also contributed to the structure of an amalgamative mentality – in which these elites expressed an opportunistic loyalty towards the British Empire while being loyal to the Chinese regimes simultaneously. This conflicted mentality allowed these elites to travel between the edges of the two empires and put a distinctive stamp on the bureaucratic culture of early colonial Hong Kong.
 
+
 ## The Rhumbl Network Graph
 
 <param ve-image 
@@ -49,6 +51,7 @@ Rhumbl is a newly developed online-based software that allows me to generate an 
        label="Network Graph Legend" 
        attribution="">
 Due to technical limitations, it was not allowed to add a legend within the online network graph powered by Rhumbl. Please take reference to the legend on the right-hand side when you are viewing the graph. 
+
 
 ## References
 
