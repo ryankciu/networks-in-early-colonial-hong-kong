@@ -97,12 +97,19 @@ To generate the graphs I have consulted various archival materials and secondary
 ### Archival Materials
 
 Asian Directories and Chronicles - Hong Kong section (various years)
+
 Carl Smith Collection 
+
 Colonial Office correspondence collection (CO 129)
+
 “Juror List,” Hong Kong Government Gazettee (various years) 
+
 South China Morning Post 
+
 The National Library of Scotland (NLS), Paper of Sir James Haldane Stewart Lockhart, K.C.M.G. (1858-1947), P’ang Shau Chun, Hong Kong, to A Brewin, 16 September 1930.
+
 The University of Otago Library Archive, Hocken Collections, MS870B
+
 The Yellow Dragon (various editions)
 <param ve-image 
        fit="contain"
@@ -113,14 +120,23 @@ The Yellow Dragon (various editions)
 ### Secondary Sources
 
 Hall, Peter. In the Web. Birkenhead: Appin Press, 2012.
+
 He, Wen-xiang 何文翔. Xianggang Jiazushi 香港家族史 [Family histories of Hong Kong]. Hong Kong: Capital Communications Corporation, 1989.
+
 Ho, Eric Peter. The Welfare League (Tong Ten Hui): The Sixty Years: 1930-1990. Hong Kong: Welfare League, 1990.
+
 Ho, Eric Peter. Tracing my Children’s Lineage. Hong Kong: The Hong Kong University Press, 2010. 
+
 Holdsworth, May and Christopher Munn. Dictionary of Hong Kong Biography. Hong Kong: Hong Kong University Press, 2012. 
+
 Stokes, John and Gwenneth. Queen’s College: Its History 1862-1987. Hong Kong: Queen’s College Old Boys’ Association, 1987.
+
 Wong, Chun-wei 黃振威. Fanshu yu Huanglong: Xianggang Huangren Shuyuan Huaren jingying yu jindai Zhongguo 番書與黃龍: 香港皇仁書院華人精英與近代中國 [Foreign Books and Yellow Dragon: Chinese Elites of the Queen’s College in Hong Kong and Modern China]. Hong Kong: Chung Hwa Book, 2019.
+
 Wright, Arnold and H.A Cartwright. Twentieth Century Impressions of Hong Kong, Shanghai, and other Treaty Ports of China: Their History, People, Commerce, Industries and Resources. London: Lloyds Greater Britain Publishing Co., 1908.
+
 Zheng, Victor Wan-tai 鄭宏泰, and Siu-lung Wong 黃紹倫. Shangchengji: Xianggang Jiazu Qiye Zonghengtan 商城記:香港家族企業縱橫談 [The Business Tales: Discussion on the Family Businesses in Hong Kong]. Hong Kong: Chung Hwa, 2014.
+
 Zheng, Victor Wan-tai 鄭宏泰, and Ko-ho 高皓, Baishouxingjia: Xianggang jiazu yu sheui 1841-1941 白手興家：香港家族與社會 1841-1941 [Rags-to-Riches: Family and Society in Hong Kong 1841-1941]. Hong Kong: Chung Hwa Book, 2016.
 
 ## Online Sources
