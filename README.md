@@ -6,12 +6,6 @@
        layout="vtl"
        banner="/images/P%231.png">
 
-
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
-<param ve-config title="Herbert George Wells (H.G Wells) (1866-1946)" author="Simone Blandford" layout="vtl" 
-banner="/images/banners/20c.jpg">
-
-
 ## Introduction
 
 The study of networks is crucial to understanding human experiences. In the late 19th and early 20th century Hong Kong, the Chinese and Eurasian elites, along with the colonial officials and foreign merchants, had formed interconnected networks among themselves and within the colonial bureaucracy through marriages, shared common institutions (including alumni network), and political and commercial connections. By studying and visualizing the networks of these bureaucratic actors, we gain insights into their lives and institutional experiences, as well as the form of collaboration and the malleable nature of colonialism in early Hong Kong on a micro-historical level. As to visualize the networks, I have formed a Digital Humanities project through this digital platform and the utilization of network modelling tools.
