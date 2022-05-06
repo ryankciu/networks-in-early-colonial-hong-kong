@@ -37,7 +37,6 @@ I have created a network graph using Rhumbl to visualize the networks. It is ava
 <param ve-image
        fit="contain"
        url="images/networkgraph.png"> 
-
 Rhumbl is a newly developed online-based software that allows me to generate an accessible relationship chart by formatting the nodes (individuals) and edges (relationships between individuals) on an algorithm layout. Viewers are allowed to interact with this graph. This network graph includes 140 individuals that were correlated with the 16 attendees of the unique gathering in 1938. (Approximately 140 individuals were included at this stage to align with this Rhumbl network graph and my MA thesis. The investigation of the networks will expand in the future; therefore, more individuals will be added).
 <param ve-image
        fit="contain"
