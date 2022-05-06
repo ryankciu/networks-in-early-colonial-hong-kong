@@ -99,15 +99,10 @@ Colonial Office correspondence collection (CO 129)
 South China Morning Post 
 The National Library of Scotland (NLS), Paper of Sir James Haldane Stewart Lockhart, K.C.M.G. (1858-1947), P’ang Shau Chun, Hong Kong, to A Brewin, 16 September 1930.
 
-Juror list…government gazette 
-
-Secondary Sources (slightly bigger, bold text)
-
-
-
-Online Sources
-
-“Geni,” MyHeritage, https://www.geni.com/.
-
-“Hong Kong Government Reports Online (1842-1941),” The University of Hong Kong Libraries, https://sunzi.lib.hku.hk/hkgro/browse.jsp.
 ## Secondary Sources
+
+## Online Sources
+
+[“Geni,” MyHeritage](https://www.geni.com/)
+
+[“Hong Kong Government Reports Online (1842-1941),” The University of Hong Kong Libraries](https://sunzi.lib.hku.hk/hkgro/browse.jsp)
