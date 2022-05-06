@@ -106,3 +106,5 @@ The National Library of Scotland (NLS), Paper of Sir James Haldane Stewart Lockh
 [“Geni,” MyHeritage](https://www.geni.com/)
 
 [“Hong Kong Government Reports Online (1842-1941),” The University of Hong Kong Libraries](https://sunzi.lib.hku.hk/hkgro/browse.jsp)
+
+[“Old HK Newspapers,” Old HK Newspapers, Hong Kong Public Libraries Multimedia Information System](https://mmis.hkpl.gov.hk/web/guest/old-hk-collection?from_menu=Y&dummy=)
