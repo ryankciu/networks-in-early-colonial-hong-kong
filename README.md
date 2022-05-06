@@ -72,7 +72,7 @@ Viewers of my graph are allowed to click on the nodes to view and identify vario
        fit="contain"
        url="images/node.png"> 
 
-Moreover, my graph allows the viewers to search for a specific person. It will then display precise biographical information about each individual, such as gender, affiliations, footnotes that clarify the relationships between individuals, and a bibliography for references. 
+Moreover, my graph allows the viewers to search for a specific person through their names or affiliations. It will then display precise biographical information about each individual, such as gender, affiliations, footnotes that clarify the relationships between individuals, and a bibliography for references.
 <param ve-image
        fit="contain"
        url="images/search.png">
