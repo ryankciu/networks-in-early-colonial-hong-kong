@@ -6,13 +6,13 @@
        layout="vtl"
        banner="images/uniquegathering.png">
 
-## Introduction
+### Introduction
 
 The study of networks is crucial to understanding human experiences. In the late 19th and early 20th century Hong Kong, the Chinese and Eurasian elites, along with the colonial officials and foreign merchants, had formed interconnected networks among themselves and within the colonial bureaucracy through marriages, shared common institutions (including alumni network), and political and commercial connections. By studying and visualizing the networks of these bureaucratic actors, we gain insights into their lives and institutional experiences, as well as the form of collaboration and the malleable nature of colonialism in early Hong Kong on a micro-historical level. As to visualize the networks, I have formed a Digital Humanities project through this digital platform and the utilization of network modelling tools.
  
 _This Digital Humanities project is utilized to support Chapter 3 of my M.A. Thesis – The Expanded Networks and the Local Elites._
 
-### The Background Story
+#### The Background Story
 
 To begin, I have chosen the travelling story of Captain Walter Bosman and his welcoming banquet in Hong Kong as my entry point into studying the networks. In 1937, Captain Bosman (also known as Ho Yau-kai; 1867-1946), a colonial official in South Africa, decided to travel back to his hometown – Hong Kong – after fifty-four years since his first departure of subsequence in receiving a letter from his biological brother, Robert Ho Tung. Along with his wife Louise Bosman, her maid and a German chauffeur, they first sailed from South Africa to London and then to Paris. Bosman and his companies then travelled more than 18,200 miles by an auto-car. From Paris, they drove east to Nazi Germany, and Poland, then directly south to cross the Danube River and enter Romania and to the Balkans, where they continued to drive eastward across Turkey, the Kingdom of Iraq, Persia (nowadays Iran), and eventually arrived Bombay in India on the 23rd December 1937. The party of four then boarded the TSS Conte Viancalano, an ocean liner that took them to their destination directly to avoid crossing the snow-bound Himalayas overland. In early January 1938, they eventually arrived at Bosman’s hometown, Hong Kong.
 
@@ -51,7 +51,7 @@ Networking was important for them to strengthen their statuses, influences, or a
        label="1938 Unique Gathering"
        attribution="Courtesy of the Queen’s College History Museum">
 
-## The Rhumbl Network Graph
+### The Rhumbl Network Graph
 
 I have created a network graph using Rhumbl to visualize the networks. It is available [online](https://rhumbl.com/app/share/61dc88fcee54560ed8f58e5b).
 <param ve-image
@@ -77,7 +77,7 @@ Moreover, my graph allows the viewers to search for a specific person through th
        fit="contain"
        url="images/search.png">
 
-## The Gephi’s Family Network Graph
+### The Gephi’s Family Network Graph
 
 To visualize the family network, in particular, I have created a family network graph through Gephi. Similar to Rhumbl, Gephi also generates nodes and edges to express connections. Each colour of the edges represents the cluster of each family based on immediate family relationships, including spouses, parents and children, and siblings. The individuals were selected based on the attendees of the 1938 gathering, whose nodes were highlighted red in the graph. Through the graph, we can see that the Eurasian families have formed a self-contained cluster apart from the Chinese elites. In other words, intermarriage occurred within the Eurasian circle.
 <param ve-image
@@ -85,12 +85,12 @@ To visualize the family network, in particular, I have created a family network 
        url="images/gephifamilygraph.png"
        title="Gephi’s Family Network Graph">
 
-## Methodology and Data Collection 
+### Methodology and Data Collection 
 
-## Reference
+### Reference
 
-## Selected Bibliography
+### Selected Bibliography
 
-# Archival Materials
+## Archival Materials
 
-# Secondary Sources
+## Secondary Sources
