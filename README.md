@@ -50,7 +50,7 @@ Rhumbl is a newly developed online-based software that allows me to generate an 
        attribution="">
 Due to technical limitations, it was not allowed to add a legend within the online network graph powered by Rhumbl. Please take reference to the legend on the right-hand side when you are viewing the graph. 
 
-# References
+## References
 
 [Hong Kong Colonial Second Tier Elites – Eric Chow](https://juncture-digital.org/choweric/JunctureTest/)
 
