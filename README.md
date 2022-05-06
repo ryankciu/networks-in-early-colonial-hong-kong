@@ -1,9 +1,9 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring"
-       author="JSTOR Labs team"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       title="Networks in Early Colonial Hong Kong"
+       author="Ryan Iu"
+       banner="https://drive.google.com/file/d/19JKSQdwhhZLv8dS7ajg5R5pBWeCthp9j/view?usp=sharing" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
@@ -49,4 +49,5 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: [Hong Kong Colonial Second Tier Elites – Eric Chow](https://juncture-digital.org/choweric/JunctureTest/)
+[^2]: [https://echo.orpheusinstituut.be/article/musicians-networks-in-early-modern-venice](https://echo.orpheusinstituut.be/article/musicians-networks-in-early-modern-venice)
