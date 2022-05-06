@@ -93,7 +93,6 @@ To generate the graphs I have consulted various archival materials and secondary
        attribution="“Hong Kong,” Asian Chronicles and Directories 1938, A514-A515.">
 
 ### Selected Bibliography for Data Collection
-
 <param ve-image 
        fit="contain"
        url="images/jurorlist.png"
