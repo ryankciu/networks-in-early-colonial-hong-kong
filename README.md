@@ -39,3 +39,12 @@ Due to technical limitations, it was not allowed to add a legend within the onli
 
 Viewers of my graph are allowed to click on the nodes to view and identify various types of relationships between individuals. Please take reference to the legend for further information regarding the colours of the nodes and the edges. 
 <param ve-image url="images/P%235.png"> 
+
+Moreover, my graph allows the viewers to search for a specific person. It will then display precise biographical information about each individual, such as gender, affiliations, footnotes that clarify the relationships between individuals, and a bibliography for references. 
+<param ve-image url="images/P%236.png">
+
+## The Gephi’s Family Network Graph
+
+## Methodology and Data Collection 
+
+## Reference
