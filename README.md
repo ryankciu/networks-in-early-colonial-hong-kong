@@ -84,7 +84,6 @@ To visualize the family network, in particular, I have created a family network 
        curtain url="images/gephifamilygraph.png"
        label="Gephi’s Family Network Graph">
 <param ve-compare
-       fit="contain"
        url="images/gephifamilygraphlegend.png">
 
 ### Methodology and Data Collection 
