@@ -4,7 +4,7 @@
        title="Networks in Early Colonial Hong Kong"
        author="Ryan Iu"
        layout="vtl"
-       banner="uniquegathering.png">
+       banner="images/uniquegathering.png">
 
 ## Introduction
 
@@ -19,7 +19,7 @@ To begin, I have chosen the travelling story of Captain Walter Bosman and his we
 On the 14th of February 1938, a month after Bosman’s arrival, fifteen former pupils of the Government Central School (1862-1889; now the Queen’s College) in Hong Kong, ranging in age from sixty-three to eighty years, hosted a welcoming banquet in honour of the return of Bosman a the Kwong Chow Restaurant in West Point. Almost fifty years have passed since they were schoolboys, and on that special night, they reminisced about their boyhood friendships by recalling their childhood memories over tea and gourmet cuisine.
 <param ve-image
        fit="contain"
-       url="uniquegatheringcopy.png"
+       url="images/uniquegatheringcopy.png"
        label="1938 Unique Gathering"
        attribution="Courtesy of the Queen’s College History Museum">
 
