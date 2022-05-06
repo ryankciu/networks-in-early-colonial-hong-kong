@@ -42,7 +42,7 @@ Rhumbl is a newly developed online-based software that allows me to generate an 
 
 Due to technical limitations, it was not allowed to add a legend within the online network graph powered by Rhumbl. Please take reference to the legend on the right-hand side when you are viewing the graph. 
 
-Viewers of my graph are allowed to click on the nodes…to view information..individual…please take reference to the legend above…for identifying various types of relationships 
+Viewers of my graph are allowed to click on the nodes to view and identify various types of relationships between individuals. Please take reference to the legend for further information regarding the colours of the nodes and the edges. 
 <param ve-image url="images/P%235.png" label="Nodes Clicking"> 
 
 ## References
