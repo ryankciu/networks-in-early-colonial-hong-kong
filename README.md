@@ -6,13 +6,13 @@
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
        layout="vertical">
 
-# Introduction
+## Introduction
 
 The study of networks is crucial to understanding human experiences. In the late 19th and early 20th century Hong Kong, the Chinese and Eurasian elites, along with the colonial officials and foreign merchants, had formed interconnected networks among themselves and within the colonial bureaucracy through marriages, shared common institutions (including alumni network), and political and commercial connections. By studying and visualizing the networks of these bureaucratic actors, we gain insights into their lives and institutional experiences, as well as the form of collaboration and the malleable nature of colonialism in early Hong Kong on a micro-historical level. As to visualize the networks, I have formed a Digital Humanities project through this digital platform and the utilization of network modelling tools.
  
 _This Digital Humanities project is utilized to support Chapter 3 of my M.A. Thesis – The Expanded Networks and the Local Elites._
 
-## The Background Story
+### The Background Story
 
 <param ve-image 
        url="" 
@@ -34,7 +34,7 @@ They became elites and formed such interconnected networks due to the Central Sc
  
 Networking was important for them to strengthen their statuses, influences, or any social benefits that they could have acquired through mutual networks, particularly after they have accumulated wealth and earned high social status in the colony. Significantly, such intricated networks allowed these elites to differentiate themselves from ordinary Chinese and European colonial officials based on similar backgrounds. The networks also contributed to the structure of an amalgamative mentality – in which these elites expressed an opportunistic loyalty towards the British Empire while being loyal to the Chinese regimes simultaneously. This conflicted mentality allowed these elites to travel between the edges of the two empires and put a distinctive stamp on the bureaucratic culture of early colonial Hong Kong.
 
-# The Rhumbl Network Graph
+## The Rhumbl Network Graph
 
 <param ve-image 
        url="" 
