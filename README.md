@@ -3,8 +3,14 @@
 <param ve-config 
        title="Networks in Early Colonial Hong Kong"
        author="Ryan Iu"
-       banner="https://iiif.juncture-digital.org/banner/?url=" 
-       layout="vertical">
+       layout="vtl"
+       banner="/images/P%231.png">
+
+
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="Herbert George Wells (H.G Wells) (1866-1946)" author="Simone Blandford" layout="vtl" 
+banner="/images/banners/20c.jpg">
+
 
 ## Introduction
 
