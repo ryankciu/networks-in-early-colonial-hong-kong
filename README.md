@@ -83,9 +83,9 @@ To visualize the family network, in particular, I have created a family network 
 To generate the graphs I have consulted various archival materials and secondary monographs. The Hong Kong sections within Asian Directories and Chronicles from 1872 to 1941 were consulted as they record lists of active companies and government departments as well as the staff lists. The juror lists These lists were examined year by year to trace the formation of the networks. Governmental documents including the Government Gazette and the Colonial Office correspondence collection (CO 129) were consulted to acquire systemic lists - including juror lists - of the individuals and other detailed information concerning the daily activities between the local elites and the colonial officials. The index cards held by the Carl Smith Collection were used to trace information about persons, organizations, etc. They provide valuable research guidelines for further inspection of the networks. To trace the alumni network, the school magazine of the Central School, The Yellow Dragon, was examined. Furthermore, family memoirs, private correspondence and personal papers were consulted for exclusive information regarding the elite alumni. After collecting all the data, a database of the local elites was formed. The data was then input into an excel file. Ultimately, the excel files were uploaded to Rhumbl and Gephi to generate the graphs. 
 <param ve-image 
        fit="contain"
-       url="images/chroniclesanddirectories1938.png"
-       label="1938 Asian Chronicles and Directories"
-       attribution="“Hong Kong,” Asian Chronicles and Directories 1938, A514-A515.">
+       url="images/jurorlist.png"
+       label="Juror List for 1883"
+       attribution="“Juror List for 1883,” Hong Kong Government Gazettee 1883, 157.">
 
 ## V. Selected Bibliography for Data Collection
 
@@ -103,11 +103,6 @@ Carl Smith Collection.
 Colonial Office correspondence collection (CO 129).
 
 “Juror List,” Hong Kong Government Gazettee (various years).
-<param ve-image 
-       fit="contain"
-       url="images/jurorlist.png"
-       label="Juror List for 1883"
-       attribution="“Juror List for 1883,” Hong Kong Government Gazettee 1883, 157.">
        
 South China Morning Post.
 
