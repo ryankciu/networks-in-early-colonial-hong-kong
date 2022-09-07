@@ -2,8 +2,8 @@
 
 <param ve-config 
        title="Networks in Early Colonial Hong Kong"
-       author="Ryan Iu 
-               Contact: ryankciu@student.ubc.ca"
+       tagline= "Contact: ryankciu@student.ubc.ca"
+       author="Ryan Iu"
        layout="vtl"
        banner="images/uniquegathering.png">
 
