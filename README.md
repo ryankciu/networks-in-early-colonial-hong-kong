@@ -2,7 +2,6 @@
 
 <param ve-config 
        title="Networks in Early Colonial Hong Kong"
-       tagline= "Contact: ryankciu@student.ubc.ca"
        author="Ryan Iu"
        layout="vtl"
        banner="images/uniquegathering.png">
@@ -142,3 +141,8 @@ Zheng, Victor Wan-tai 鄭宏泰, and Ko-ho 高皓, Baishouxingjia: Xianggang jia
 [“Hong Kong Government Reports Online (1842-1941),” The University of Hong Kong Libraries](https://sunzi.lib.hku.hk/hkgro/browse.jsp)
 
 [“Old HK Newspapers,” Old HK Newspapers, Hong Kong Public Libraries Multimedia Information System](https://mmis.hkpl.gov.hk/web/guest/old-hk-collection?from_menu=Y&dummy=)
+
+### Contact
+
+Email: ryankciu@student.ubc.ca
+Instagram: ryan.iu
