@@ -24,7 +24,7 @@ To begin, I have chosen the travelling story of Captain Walter Bosman and his we
 
 <param ve-image 
        fit="contain"
-       url="https://drive.google.com/file/d/1hsXffq9tkUVKdtH0pOA6p7kUhfmrwcrS/view?usp=sharing"
+       url="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"
        label="Captain Walter Bosman’s Travelling Map"
        attribution="Walter Bosman, Lands Unknown (Hong Kong: Hong Kong Daily Press, 1939), v.">
 
