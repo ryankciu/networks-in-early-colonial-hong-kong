@@ -4,7 +4,7 @@
        title="Networks in Early Colonial Hong Kong"
        author="Ryan Iu ryankciu@student.ubc.ca"
        layout="vtl"
-       banner=".images/uniquegathering1938.jpg">
+       banner="[.images/uniquegathering1938.jpg](https://github.com/ryankciu/networks-in-early-colonial-hong-kong/blob/cb20171acb60759d55c1e65ff1b7418276ba123c/images/uniquegathering1938.jpg)">
 
 ## I. Introduction
 
