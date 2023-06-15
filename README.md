@@ -10,7 +10,7 @@
 
 The study of networks is crucial to understanding human experiences. In the late 19th and early 20th century Hong Kong, the Chinese and Eurasian elites, along with the colonial officials and foreign merchants, had formed interconnected networks among themselves and within the colonial bureaucracy through marriages, shared common institutions (including alumni network), and political and commercial connections. By studying and visualizing the networks of these bureaucratic actors, we gain insights into their lives and institutional experiences, as well as the form of collaboration and the malleable nature of colonialism in early Hong Kong on a micro-historical level. As to visualize the networks, I have formed a Digital Humanities project through this digital platform and the utilization of network modelling tools.
 
-<param ve-image
+<param
        fit=contain
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/-Panorama_of_Hong_Kong-_MET_DP165598.jpg/1600px--Panorama_of_Hong_Kong-_MET_DP165598.jpg?20170629161136"
        label="Panorama of Early Colonial Hong Kong"
@@ -21,11 +21,7 @@ _This Digital Humanities project is utilized to support Chapter 3 of my M.A. The
 ### The Background Story
 
 To begin, I have chosen the travelling story of Captain Walter Bosman and his welcoming banquet in Hong Kong as my entry point into studying the networks. In 1937, Captain Bosman (also known as Ho Yau-kai; 1867-1946), a colonial official in South Africa, decided to travel back to his hometown – Hong Kong – after fifty-four years since his first departure of subsequence in receiving a letter from his biological brother, Robert Ho Tung. Along with his wife Louise Bosman, her maid and a German chauffeur, they first sailed from South Africa to London and then to Paris. Bosman and his companies then travelled more than 18,200 miles by an auto-car. From Paris, they drove east to Nazi Germany, and Poland, then directly south to cross the Danube River and enter Romania and to the Balkans, where they continued to drive eastward across Turkey, the Kingdom of Iraq, Persia (nowadays Iran), and eventually arrived Bombay in India on the 23rd December 1937. The party of four then boarded the TSS Conte Viancalano, an ocean liner that took them to their destination directly to avoid crossing the snow-bound Himalayas overland. In early January 1938, they eventually arrived at Bosman’s hometown, Hong Kong.wn, Hong Kong.
-<param ve-image
-       fit=contain
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/-Panorama_of_Hong_Kong-_MET_DP165598.jpg/1600px--Panorama_of_Hong_Kong-_MET_DP165598.jpg?20170629161136"
-       label="Panorama of Early Colonial Hong Kong"
-       attribution="Creative Commons Zero, Public domain, via Wikipedia Commons">
+
 <param ve-image 
        fit="contain"
        url="images/travelmap.jpg"
