@@ -10,7 +10,7 @@
 
 The study of networks is crucial to understanding human experiences. In the late 19th and early 20th century Hong Kong, the Chinese and Eurasian elites, along with the colonial officials and foreign merchants, had formed interconnected networks among themselves and within the colonial bureaucracy through marriages, shared common institutions (including alumni network), and political and commercial connections. By studying and visualizing the networks of these bureaucratic actors, we gain insights into their lives and institutional experiences, as well as the form of collaboration and the malleable nature of colonialism in early Hong Kong on a micro-historical level. As to visualize the networks, I have formed a Digital Humanities project through this digital platform and the utilization of network modelling tools.
 
-<param
+<param ve-image
        fit=contain
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/-Panorama_of_Hong_Kong-_MET_DP165598.jpg/1600px--Panorama_of_Hong_Kong-_MET_DP165598.jpg?20170629161136"
        label="Panorama of Early Colonial Hong Kong"
@@ -24,7 +24,7 @@ To begin, I have chosen the travelling story of Captain Walter Bosman and his we
 
 <param ve-image 
        fit="contain"
-       url="images/travelmap.jpg"
+       url="https://drive.google.com/file/d/1hsXffq9tkUVKdtH0pOA6p7kUhfmrwcrS/view?usp=sharing"
        label="Captain Walter Bosman’s Travelling Map"
        attribution="Walter Bosman, Lands Unknown (Hong Kong: Hong Kong Daily Press, 1939), v.">
 
