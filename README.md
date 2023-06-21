@@ -1,11 +1,11 @@
-<a href="https://juncture-digital.org"><img src="(https://juncture-digital.org/images/ve-button.png)"></a>
+<a href="https://juncture-digital.org"><img src="()"></a>
 
 <param ve-config 
        title="Networks in Early Colonial Hong Kong"
        author="Ryan Iu ryankciu@student.ubc.ca"
        layout="vtl"
        banner="images/uniquegathering.jpg">
-
+.ve-media wc:images/uniquegathering.jpg
 ## I. Introduction
 
 The study of networks is crucial to understanding human experiences. In the late 19th and early 20th century Hong Kong, the Chinese and Eurasian elites, along with the colonial officials and foreign merchants, had formed interconnected networks among themselves and within the colonial bureaucracy through marriages, shared common institutions (including alumni network), and political and commercial connections. By studying and visualizing the networks of these bureaucratic actors, we gain insights into their lives and institutional experiences, as well as the form of collaboration and the malleable nature of colonialism in early Hong Kong on a micro-historical level. As to visualize the networks, I have formed a Digital Humanities project through this digital platform and the utilization of network modelling tools.
