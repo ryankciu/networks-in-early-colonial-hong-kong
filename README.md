@@ -4,7 +4,7 @@
        title="Networks in Early Colonial Hong Kong"
        author="Ryan Iu ryankciu@student.ubc.ca"
        layout="vtl"
-       banner="images/uniquegathering.jpg">
+       banner="https://upload.wikimedia.org/wikipedia/commons/c/c4/Himalayas_in_the_morning_light.jpg">
 
 ## I. Introduction
 
