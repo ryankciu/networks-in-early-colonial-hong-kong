@@ -6,7 +6,20 @@
        layout="vtl"
        banner="images/uniquegathering.jpg">
        
-.ve-media wc:uniquegathering.jpg
+<ve-media anno-base="None/None/" src="wc:uniquegathering.png"></ve-media>
+
+
+<ve-footer>
+  <ul>
+    <li>
+       <a href="https://juncture-digital.org">Powered by:
+        <img alt src="https://juncture-digital.github.io/juncture/static/images/juncture-logo.png"></a> 
+    </li>
+    <li>
+      view-code
+    </li>
+  </ul>
+</ve-footer>
 
 ## I. Introduction
 
