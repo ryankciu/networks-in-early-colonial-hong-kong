@@ -1,11 +1,10 @@
-<a href="https://juncture-digital.org"><img src="()"></a>
+<a href="https://juncture-digital.org"><img src="(https://juncture-digital.org/images/ve-button.png)"></a>
 
 <param ve-config 
        title="Networks in Early Colonial Hong Kong"
        author="Ryan Iu ryankciu@student.ubc.ca"
        layout="vtl"
-       banner="images/chroniclesanddirectories1938.jpg">
-
+       banner="images/uniquegathering.png">
 
 ## I. Introduction
 
