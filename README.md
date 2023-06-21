@@ -36,7 +36,7 @@ On the 14th of February 1938, a month after Bosman’s arrival, fifteen former p
 Interestingly, these elite alumni – in these fifty years – have formed interconnected networks among themselves - as well as their families - and within the colonial bureaucracy through marriages, shared common institutions, and business and political connections. After tracing their connections, their networks involved approximately 140 individuals. They became elites and formed such interconnected networks due to the Central School and the secular education that they received there. The school became the source of empowerment for young men as it taught both Chinese and English to the students so that they could become civil servants or business middlemen (compradores) within the colonial bureaucracy once they graduated.
 <param ve-image 
        fit="contain"
-       url="images/uniquegathering.png"
+       url="https://drive.google.com/uc?export=view&id=19JKSQdwhhZLv8dS7ajg5R5pBWeCthp9j">
        label="1938 Unique Gathering"
        attribution="Courtesy of the Queen’s College History Museum">
 
