@@ -68,7 +68,7 @@ Viewers of my graph are allowed to click on the nodes to view and identify vario
 Moreover, my graph allows the viewers to search for a specific person through their names or affiliations. It will then display precise biographical information about each individual, such as gender, affiliations, footnotes that clarify the relationships between individuals, and a bibliography for references. There is also a section that displays outgoing and incoming nodes of the person; this allows the viewers to observe the networks of the individual through a list other than simply visualization.
 <param ve-image
        fit="contain"
-       url="images/search.png">
+       url="https://drive.google.com/uc?export=view&id=1HkGpTnY5rBDFwdp35TYUgCqgunN5OuZW"> 
 
 ## III. The Gephi’s Family Network Graph
 
