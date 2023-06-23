@@ -75,7 +75,7 @@ Moreover, my graph allows the viewers to search for a specific person through th
 To visualize the family network, in particular, I have created a family network graph through Gephi. Similar to Rhumbl, Gephi also generates nodes and edges to express connections. Each colour of the edges represents the cluster of each family based on immediate family relationships, including spouses, parents and children, and siblings. The individuals were selected based on the attendees of the 1938 gathering, whose nodes were highlighted red in the graph. Through the graph, we can see that the Eurasian families have formed a self-contained cluster apart from the Chinese elites. In other words, intermarriage occurred within the Eurasian circle. 
 <param ve-image
        fit=contain
-       url="images/gephifamilygraph.png"
+       url="https://drive.google.com/uc?export=view&id=1LJOUWLqiHZM0-8rgyk5dWg4pnNMES4hm"
        label="Gephi’s Family Network Graph">
 
 ## IV. Methodology and Data Collection 
