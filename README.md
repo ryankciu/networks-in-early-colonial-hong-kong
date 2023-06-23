@@ -29,21 +29,21 @@ To begin, I have chosen the travelling story of Captain Walter Bosman and his we
 On the 14th of February 1938, a month after Bosman’s arrival, fifteen former pupils of the Government Central School (1862-1889; now the Queen’s College) in Hong Kong, ranging in age from sixty-three to eighty years, hosted a welcoming banquet in honour of the return of Bosman at the Kwong Chow Restaurant in West Point. Almost fifty years have passed since they were schoolboys, and on that special night, they reminisced about their boyhood friendships by recalling their childhood memories over tea and gourmet cuisine. Mr. Frank White proposed the health of Bosman, who suitably replied and exclaimed that the colony has almost entirely transformed, but it was a pleasure for him to realize his former schoolmates were still strong. They were strong not only in their bodies but also in their backgrounds. These attendees of the gathering were either Chinese or Eurasian (people with both Chinese and European ancestry) elites in the colony.
 <param ve-image 
        fit="contain"
-       url="images/uniquegathering.png"
+       url="[images/uniquegathering.png](https://drive.google.com/uc?export=view&id=19JKSQdwhhZLv8dS7ajg5R5pBWeCthp9j)"
        label="1938 Unique Gathering"
        attribution="Courtesy of the Queen’s College History Museum">
 
 Interestingly, these elite alumni – in these fifty years – have formed interconnected networks among themselves - as well as their families - and within the colonial bureaucracy through marriages, shared common institutions, and business and political connections. After tracing their connections, their networks involved approximately 140 individuals. They became elites and formed such interconnected networks due to the Central School and the secular education that they received there. The school became the source of empowerment for young men as it taught both Chinese and English to the students so that they could become civil servants or business middlemen (compradores) within the colonial bureaucracy once they graduated.
 <param ve-image 
        fit="contain"
-       url="https://drive.google.com/uc?export=view&id=19JKSQdwhhZLv8dS7ajg5R5pBWeCthp9j">
+       url="[images/uniquegathering.png](https://drive.google.com/uc?export=view&id=19JKSQdwhhZLv8dS7ajg5R5pBWeCthp9j)"
        label="1938 Unique Gathering"
        attribution="Courtesy of the Queen’s College History Museum">
 
 Networking was important for them to strengthen their statuses, influences, or any social benefits that they could have acquired through mutual networks, particularly after they have accumulated wealth and earned high social status in the colony. Significantly, such intricated networks allowed these elites to differentiate themselves from ordinary Chinese and European colonial officials based on similar backgrounds. The networks also contributed to the structure of an amalgamative mentality – in which these elites expressed an opportunistic loyalty towards the British Empire while being loyal to the Chinese regimes simultaneously. This conflicted mentality allowed these elites to travel between the edges of the two empires and put a distinctive stamp on the bureaucratic culture of early colonial Hong Kong.
 <param ve-image 
        fit="contain"
-       url="images/uniquegathering.png"
+       url="[images/uniquegathering.png](https://drive.google.com/uc?export=view&id=19JKSQdwhhZLv8dS7ajg5R5pBWeCthp9j)"
        label="1938 Unique Gathering"
        attribution="Courtesy of the Queen’s College History Museum">
 
@@ -52,8 +52,8 @@ Networking was important for them to strengthen their statuses, influences, or a
 I have created a network graph using Rhumbl to visualize the networks. It is available [online](https://rhumbl.com/app/share/61dc88fcee54560ed8f58e5b). Rhumbl is a newly developed online-based software that allows me to generate an accessible relationship chart by formatting the nodes (individuals) and edges (relationships between individuals) on an algorithm layout. Viewers are allowed to interact with this graph. This network graph includes 140 individuals that were correlated with the 16 attendees of the unique gathering in 1938. (Approximately 140 individuals were included at this stage to align with this Rhumbl network graph and my MA thesis. The investigation of the networks will expand in the future; therefore, more individuals will be added).
 <param ve-image
        fit="contain"
-       url="images/networkgraph.png"
-       label="Rhumbl Network Graph">
+       url="https://drive.google.com/uc?export=view&id=1k0S6CYMRnAxNxrulY4IwR4FiPpsnxD8q" 
+       label="Rhumbl Network Graph"
 
 Due to technical limitations, it was not allowed to add a legend within the online network graph powered by Rhumbl. Please take reference to the legend on the right-hand side when you are viewing the graph.
 <param ve-image
