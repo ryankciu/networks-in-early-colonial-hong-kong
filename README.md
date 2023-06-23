@@ -53,7 +53,7 @@ I have created a network graph using Rhumbl to visualize the networks. It is ava
 <param ve-image
        fit="contain" 
        url="https://drive.google.com/uc?export=view&id=1k0S6CYMRnAxNxrulY4IwR4FiPpsnxD8q" 
-       label="Rhumbl Network Graph" 
+       label="Rhumbl Network Graph">
 
 Due to technical limitations, it was not allowed to add a legend within the online network graph powered by Rhumbl. Please take reference to the legend on the right-hand side when you are viewing the graph.
 <param ve-image
