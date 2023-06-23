@@ -63,7 +63,7 @@ Due to technical limitations, it was not allowed to add a legend within the onli
 Viewers of my graph are allowed to click on the nodes to view and identify various types of relationships between individuals. Please take reference to the legend for further information regarding the colours of the nodes and the edges. 
 <param ve-image
        fit="contain"
-       url="images/node.png"> 
+       url="https://drive.google.com/uc?export=view&id=1PESL47HHPOXjlFlYfWlr6TzK4Kf27_DF"> 
 
 Moreover, my graph allows the viewers to search for a specific person through their names or affiliations. It will then display precise biographical information about each individual, such as gender, affiliations, footnotes that clarify the relationships between individuals, and a bibliography for references. There is also a section that displays outgoing and incoming nodes of the person; this allows the viewers to observe the networks of the individual through a list other than simply visualization.
 <param ve-image
