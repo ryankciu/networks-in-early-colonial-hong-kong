@@ -29,7 +29,7 @@ To begin, I have chosen the travelling story of Captain Walter Bosman and his we
 On the 14th of February 1938, a month after Bosman’s arrival, fifteen former pupils of the Government Central School (1862-1889; now the Queen’s College) in Hong Kong, ranging in age from sixty-three to eighty years, hosted a welcoming banquet in honour of the return of Bosman at the Kwong Chow Restaurant in West Point. Almost fifty years have passed since they were schoolboys, and on that special night, they reminisced about their boyhood friendships by recalling their childhood memories over tea and gourmet cuisine. Mr. Frank White proposed the health of Bosman, who suitably replied and exclaimed that the colony has almost entirely transformed, but it was a pleasure for him to realize his former schoolmates were still strong. They were strong not only in their bodies but also in their backgrounds. These attendees of the gathering were either Chinese or Eurasian (people with both Chinese and European ancestry) elites in the colony.
 <param ve-image 
        fit="contain"
-       url="[images/uniquegathering.png](https://drive.google.com/uc?export=view&id=19JKSQdwhhZLv8dS7ajg5R5pBWeCthp9j)"
+       url="https://drive.google.com/uc?export=view&id=19JKSQdwhhZLv8dS7ajg5R5pBWeCthp9j"
        label="1938 Unique Gathering"
        attribution="Courtesy of the Queen’s College History Museum">
 
