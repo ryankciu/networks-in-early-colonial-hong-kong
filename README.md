@@ -51,9 +51,9 @@ Networking was important for them to strengthen their statuses, influences, or a
 
 I have created a network graph using Rhumbl to visualize the networks. It is available [online](https://rhumbl.com/app/share/61dc88fcee54560ed8f58e5b). Rhumbl is a newly developed online-based software that allows me to generate an accessible relationship chart by formatting the nodes (individuals) and edges (relationships between individuals) on an algorithm layout. Viewers are allowed to interact with this graph. This network graph includes 140 individuals that were correlated with the 16 attendees of the unique gathering in 1938. (Approximately 140 individuals were included at this stage to align with this Rhumbl network graph and my MA thesis. The investigation of the networks will expand in the future; therefore, more individuals will be added).
 <param ve-image
-       fit="contain"
-       url="https://drive.google.com/uc?export=view&id=1k0S6CYMRnAxNxrulY4IwR4FiPpsnxD8q"
-       label="Rhumbl Network Graph"
+       fit="contain" 
+       url="https://drive.google.com/uc?export=view&id=1k0S6CYMRnAxNxrulY4IwR4FiPpsnxD8q" 
+       label="Rhumbl Network Graph" 
 
 Due to technical limitations, it was not allowed to add a legend within the online network graph powered by Rhumbl. Please take reference to the legend on the right-hand side when you are viewing the graph.
 <param ve-image
